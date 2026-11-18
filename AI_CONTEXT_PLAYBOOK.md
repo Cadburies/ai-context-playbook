@@ -42,11 +42,13 @@ skills/<name>/SKILL.md    # procedures, loaded only when the description matches
   archive/                # cold history — never in the routing table
 ```
 
-Vendor pointer (entire file):
+Vendor pointer (the *entire* file, nothing else):
 
 ```markdown
-Read and follow `AGENTS.md`. It is the only rules file; this file holds no rules of its own.
+Follow AGENTS.md.
 ```
+
+This must be the *entire contents* of any vendor pointer file (`CLAUDE.md`, `.cursorrules`, etc.). No additional text, no backticks, no second line, no `@AGENTS.md`. Any file containing more is a violation and must be reduced to exactly this line.
 
 Backlog is **one** of these, never both:
 
