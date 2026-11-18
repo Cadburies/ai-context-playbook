@@ -66,11 +66,7 @@ See the full playbook for the bootstrap prompt, maintenance prompt, anti-pattern
 
 ## License
 
-MIT. The playbook was extracted and distilled from SisuMate after retiring hot changelogs, outstanding.md, and duplicated rules.
+MIT. See [LICENSE](LICENSE) file.
 
----
 
-**Made with the AI Context Playbook** — the same system that powers SisuMate, Poseidon, and many other agent-native projects.
-```
-
-Now initialize the repo and push it publicly.
+**Made with the AI Context Playbook** — the same system that powers SisuMate.
